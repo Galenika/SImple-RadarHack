@@ -1,5 +1,5 @@
-# SImple-ESP
-A simple esp hack for CSGO  
+# SImple-RadarHack
+A simple RadarHack for CSGO  
 
 Release Time : 2019.1.26  
 
